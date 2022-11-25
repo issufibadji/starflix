@@ -32,7 +32,7 @@ O **starflix**
 
 O projeto está hospedado no vercel app
 
-> https://vercel.com/issufibadji/starflix
+> https://starflix-eight.vercel.app/
 
 ## :rocket: Tecnologias
 
