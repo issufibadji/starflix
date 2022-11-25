@@ -1,6 +1,5 @@
-# starflix
 <h1 align="center" color=" ">
-  # starflix
+ starflix
 </h1>
 
 <p align="center">
@@ -13,27 +12,27 @@
 
 <p align="center">
    
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/youtub-clone?style=flat-square">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/starflix?style=flat-square">
 
-   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/youtub-clone?style=flat-square">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/starflix?style=flat-square">
 
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/youtub-clone?style=flat-square">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/starflix?style=flat-square">
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/youtub-clone?style=flat-square">
+   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/starflix?style=flat-square">
 </p>
 
-![youtub-clone](https://github.com/issufibadji/youtube-clone/blob/master/youtubeclone.png)
+![starflix](https://github.com/issufibadji/starflix/blob/master/starflix.png)
 
 ## :book: Sobre
 
-O **youtub-clone**
+O **starflix**
 é um projeto de clone de youtube , que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [youtube](https://www.youtube.com/)
 
 ## :cloud: Deploy
 
 O projeto está hospedado no vercel app
 
-> https://youtubeclone-blush.vercel.app/
+> https://starflix-blush.vercel.app/
 
 ## :rocket: Tecnologias
 
@@ -51,7 +50,7 @@ Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribb
 
 ## :memo: Licença
 
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/youtub-clone/blob/master/LINCENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/starflix/blob/master/LINCENSE) para obter mais informações.
 
 ---
 
