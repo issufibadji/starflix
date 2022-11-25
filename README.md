@@ -26,13 +26,13 @@
 ## :book: Sobre
 
 O **starflix**
-é um projeto de clone de youtube , que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [youtube](https://www.youtube.com/)
+é um projeto de clone de youtube , que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [netflix](https://www.netflix.com/)
 
 ## :cloud: Deploy
 
 O projeto está hospedado no vercel app
 
-> https://starflix-blush.vercel.app/
+> https://vercel.com/issufibadji/starflix
 
 ## :rocket: Tecnologias
 
